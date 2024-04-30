@@ -40,7 +40,7 @@ When  pc =0011 which pointer to the fourth location in ram and the out of ram is
 ![image](https://github.com/AbdelrahmanKhaled826/Microprocessor-Design/assets/66374409/022d6c64-b420-4f1f-b082-51263917240d)
 
 > [!TIP]
-> #####I work to make the design work only in five clock cycle instead of six clocks.and it will  appear clearly in documentation
+> #### I work to make the design work only in five clock cycle instead of six clocks.and it will  appear clearly in documentation
 
 > [!NOTE]
 > > #### the presentation amd decomentation in [documentation](https://github.com/AbdelrahmanKhaled826/Microprocessor-Design/tree/master/)
