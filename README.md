@@ -13,6 +13,7 @@ The SAP-1 computer is the first stage in this evolution. Its primary purpose is 
 • Simple Output
 ```
 > [!TIP]
-> #### In this project, we implement a SAP-1 computer using Verilog , write a testbench for each block  and check functionality of the design ,also analysis the timing  reports  and get the netlist viewer . 
- >[!NOTE]
-> #### the presentation amd decomentation in [documentation](https://github.com/AbdelrahmanKhaled826/Microprocessor-Design/tree/master/)
+> #### In this project, we implement a SAP-1 computer using Verilog , write a testbench for each block  and check functionality of the design ,also analysis the timing  reports  and get the netlist viewer .
+
+> [!NOTE]
+> > #### the presentation amd decomentation in [documentation](https://github.com/AbdelrahmanKhaled826/Microprocessor-Design/tree/master/)
